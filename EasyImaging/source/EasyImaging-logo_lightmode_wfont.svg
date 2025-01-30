@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 191 80" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Baloo 2">@import url(https://fonts.googleapis.com/css2?family=Baloo+2%3Aital%2Cwght%400%2C400..800&amp;display=swap);</style>
+    <bx:grid x="0" y="0" width="190" height="80"/>
+    <radialGradient id="gradient-6" gradientUnits="userSpaceOnUse" cx="152.286" cy="126.898" r="330" gradientTransform="matrix(0.638467, -1.091841, 1.097297, 0.641658, 52.656119, 215.401816)">
+      <stop offset="0" style="stop-color: rgb(0, 170, 237);"/>
+      <stop offset="1" style="stop-color: rgb(0, 145, 202);"/>
+    </radialGradient>
+    <linearGradient id="gradient-7" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="330" y2="660" gradientTransform="matrix(0.980745, -0.195296, 0.195753, 0.983035, -58.734308, 67.665557)">
+      <stop offset="0" style="stop-color: rgb(152, 226, 255);"/>
+      <stop offset="1" style="stop-color: rgb(78, 193, 239);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="330.905" y1="39.833" x2="330.905" y2="619.809" id="gradient-14" gradientTransform="matrix(0.864946, -0.286448, 0.284727, 0.859748, 77.343182, 41.39827)">
+      <stop offset="0" style="stop-color: rgb(212, 243, 255);"/>
+      <stop offset="1" style="stop-color: rgb(179, 233, 255);"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g transform="matrix(0.09697, 0, 0, 0.09697, 10.606886, 8.294015)">
+      <title>Logo</title>
+      <circle style="paint-order: fill; stroke-width: 10.3125px; fill: url(&quot;#gradient-6&quot;); stroke: url(&quot;#gradient-7&quot;);" cx="329.929" cy="326.968" r="330">
+        <title>Main circle</title>
+      </circle>
+      <g transform="matrix(1, 0, 0, 1, -128.261932, 96.536263)">
+        <path style="stroke-width: 10.4762px; fill: url(&quot;#gradient-14&quot;); stroke: rgb(78, 194, 239);" d="M 427.78 -20.675 C 427.78 -20.675 486.102 -28.502 539.938 -8.636 C 587.981 9.093 621.081 37.184 621.081 37.184 C 621.081 37.184 612.73 79.188 601.386 115.158 C 591.155 147.6 576.814 182.2 576.814 182.2 C 576.814 182.2 556.669 138.712 514.104 76.797 C 478.741 25.358 427.78 -20.675 427.78 -20.675 Z M 661.192 80.214 C 661.192 80.214 697.131 126.809 706.844 183.365 C 715.512 233.836 707.735 276.547 707.735 276.547 C 707.735 276.547 667.183 290.317 630.36 298.478 C 597.148 305.838 560.013 310.719 560.013 310.719 C 560.013 310.719 587.603 271.529 619.94 203.709 C 646.806 147.364 661.192 80.214 661.192 80.214 Z M 688.795 331.078 C 688.795 331.078 666.412 385.5 622.29 422.191 C 582.915 454.932 542.037 469.552 542.037 469.552 C 542.037 469.552 509.836 441.318 484.357 413.509 C 461.377 388.428 438.583 358.708 438.583 358.708 C 438.583 358.708 486.317 363.006 561.22 357.101 C 623.449 352.195 688.795 331.078 688.795 331.078 Z M 226.536 131.707 C 226.536 131.707 248.919 77.286 293.041 40.595 C 332.416 7.853 373.294 -6.767 373.294 -6.767 C 373.294 -6.767 405.495 21.468 430.974 49.277 C 453.954 74.358 476.748 104.078 476.748 104.078 C 476.748 104.078 429.014 99.78 354.111 105.685 C 291.882 110.59 226.536 131.707 226.536 131.707 Z M 256.202 380.657 C 256.202 380.657 220.262 334.062 210.549 277.506 C 201.881 227.035 209.658 184.324 209.658 184.324 C 209.658 184.324 250.21 170.554 287.033 162.393 C 320.244 155.032 357.379 150.152 357.379 150.152 C 357.379 150.152 329.79 189.342 297.453 257.162 C 270.587 313.507 256.202 380.657 256.202 380.657 Z M 485 482.134 C 485 482.134 426.678 489.961 372.842 470.095 C 324.799 452.366 291.699 424.275 291.699 424.275 C 291.699 424.275 300.05 382.271 311.394 346.301 C 321.625 313.859 335.966 279.259 335.966 279.259 C 335.966 279.259 356.111 322.747 398.676 384.662 C 434.039 436.101 485 482.134 485 482.134 Z"/>
+      </g>
+    </g>
+    <g transform="matrix(0.341978, 0, 0, 0.341978, 8.208615, 6.161749)" style="">
+      <title>Text</title>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 81.9px; font-weight: 300; line-height: 191.825px; white-space: pre;" x="216.363" y="77.257"><title>easy</title>easy</text>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 81.9px; font-weight: 600; line-height: 191.825px; white-space: pre;" x="216.468" y="159.731"><title>imaging</title>imaging</text>
+    </g>
+  </g>
+</svg>
