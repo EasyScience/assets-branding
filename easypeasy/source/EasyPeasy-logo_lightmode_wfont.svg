@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 167 80" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient id="gradient-1" gradientUnits="userSpaceOnUse" cx="152.286" cy="126.898" r="330" gradientTransform="matrix(0.638467, -1.091841, 1.097297, 0.641658, 52.656119, 215.401816)">
+      <stop offset="0" style="stop-color: rgb(0, 170, 237);"/>
+      <stop offset="1" style="stop-color: rgb(0, 145, 202);"/>
+    </radialGradient>
+    <linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="330" y2="660" gradientTransform="matrix(0.980745, -0.195296, 0.195753, 0.983035, -58.734308, 67.665557)">
+      <stop offset="0" style="stop-color: rgb(152, 226, 255);"/>
+      <stop offset="1" style="stop-color: rgb(78, 193, 239);"/>
+    </linearGradient>
+    <style bx:fonts="Baloo 2">@import url(https://fonts.googleapis.com/css2?family=Baloo+2%3Aital%2Cwght%400%2C400..800&amp;display=swap);</style>
+    <bx:grid x="0" y="0" width="190" height="80"/>
+  </defs>
+  <g transform="matrix(0.341978, 0, 0, 0.341978, 9.524829, 7.722592)">
+    <g transform="matrix(0.283555, 0, 0, 0.283555, 3.122751, 1.671054)">
+      <title>Logo</title>
+      <circle style="fill: url(&quot;#gradient-1&quot;); stroke: url(&quot;#gradient-0&quot;); paint-order: fill; stroke-width: 10.3125px;" cx="329.929" cy="326.968" r="330">
+        <title>Main circle</title>
+      </circle>
+      <g transform="matrix(0.258819, 0.965926, -0.965926, 0.258819, 56.564995, 63.045212)" style="transform-origin: 239.896px 267.565px;">
+        <title>Inner</title>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 205.274 220.834 L 68.726 301.23 L 55.946 315.75 L 65.266 334.735 L 107.14 371.056 L 150.607 394.362 L 164.075 390.082 L 170.242 375.078 L 205.274 220.834 Z"/>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 224.352 223.999 L 186.381 387.556 L 188.856 401.839 L 200.85 405.675 L 259.971 404.52 L 307.883 387.979 L 314.71 377.584 L 306.955 361.599 L 224.352 223.999 Z"/>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 239.109 214.749 L 321.98 350.792 L 332.499 365.92 L 347.102 364.611 L 387.166 324.062 L 415.896 272.066 L 412.586 260.052 L 402.088 255.453 L 239.109 214.749 Z"/>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 246.194 197.249 L 394.828 236.127 L 415.804 240.675 C 415.804 240.675 425.611 231.259 425.611 231.332 C 425.611 231.404 425.673 168.25 425.673 168.25 L 407.626 114.047 L 398.18 106.55 L 382.979 110.16 L 246.194 197.249 Z"/>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 421.445 80.924 L 444.246 133.724 L 454.156 198.517 L 447.525 261.104 L 424.971 316.492 L 384.072 368.87 L 347.215 398.25 L 301.778 418.689 L 246.452 432.591 L 188.062 431.797 L 143.182 420.133 L 85.7 389.598 L 53.916 362.022 L 32.336 337.416 L 21.856 319.421 L 2.206 330.703 L 17.746 355.793 L 45.896 386.061 L 86.907 419.494 L 131.116 441.893 L 180.245 460.125 L 239.893 465.921 L 305.058 454.742 L 362.313 428.744 L 416.453 381.74 L 447.277 339.902 L 471.615 276.882 L 477.586 224.175 C 477.586 224.175 475.214 166.105 475.214 166.157 C 475.214 166.208 463.86 117.564 463.86 117.564 L 448.969 84.832 L 439.904 69.209 L 421.445 80.924 Z"/>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 237.119 172.798 L 227.683 145.727 L 228.312 118.657 L 240.192 105.653 L 252.453 106.004 L 257.424 118.637 L 250.143 138.942 L 237.119 172.798 Z"/>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 219.206 176.603 L 201.448 149.739 L 178.08 136.652 L 156.537 131.682 L 141.346 141.943 L 144.255 156.432 L 157.032 162.547 L 181.493 160.34 L 219.206 176.603 Z"/>
+        <path style="stroke-width: 10.3125px; fill: rgb(212, 243, 255); stroke: rgb(99, 212, 254);" d="M 213.359 192.742 L 187.464 182.316 L 163.23 183.935 L 158.207 198.002 L 168.241 210.325 L 184.741 201.951 L 213.359 192.742 Z"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3.848826, -4.564161)" style="">
+      <title>Text</title>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 81.9px; font-weight: 300; line-height: 191.825px; white-space: pre;" x="216.363" y="77.257"><title>easy</title>easy</text>
+      <text style="font-family: &quot;Baloo 2&quot;; font-size: 81.9px; font-weight: 600; line-height: 191.825px; white-space: pre;" x="216.468" y="159.731"><title>diffraction</title>peasy</text>
+    </g>
+  </g>
+</svg>
